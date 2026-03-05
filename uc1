@@ -1,0 +1,6 @@
+
+public class oopsbannerapp{
+public staticvoid main(string[] args){
+system.out.println("OOPS");
+}
+}
